@@ -1,0 +1,26 @@
+{
+  "name": "news-scraper",
+  "version": "1.0.0",
+  "description": "A practice project in the implementation of Mongoose and Cheerio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/must-git-good/news-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/must-git-good/news-scraper/issues"
+  },
+  "homepage": "https://github.com/must-git-good/news-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0",
+    "request": "^2.88.0"
+  }
+}
